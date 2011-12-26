@@ -1,18 +1,19 @@
 1/4 page
 ==
-SoftLayer
-CityGrid
-Eucalyptus_QTR_PAGER.pdf
-SeaMicro.pdf
-SoftLayer.pdf
-facebook_afraid.pdf
-godaddy.jpg
-opscode_SCALE.pdf
-10Gen
+SoftLayer (SoftLayer.pdf)
+CityGrid  (CityGrid.pdf)
+Eucalyptus (Eucalyptus_QTR_PAGER.pdf)
+SeaMicro (SeaMicro.pdf)
+SoftLayer (SoftLayer.pdf)
+Facebook (facebook_afraid.pdf)
+GoDaddy (godaddy.jpg)
+Opscode (opscode_SCALE.pdf)
+10Gen (see 10gen folder)
 OpenStack
+BeyondTrust 
 
 1/2 Page
 ========
 Equus
-IBM
-HP
+IBM (ibm-halfpage.pdf)
+HP  (HP_half_page.pdf)

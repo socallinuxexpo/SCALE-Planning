@@ -1,0 +1,345 @@
+Panel: Monitoring Sucks!
+Speaker: John Vincent, Simon Jakesch, et. al
+This is DevOps Day, we clearly do not hate monitoring. Those metrics and measurements are a key part of making the informed decisions.  Over the summer the DevOps community and the "Monitoring Sucks" project kicked off discussions about the current state of monitoring and where it needs to improve.    At DevOps Day LA we will bring together DevOps community members and developers of monitoring software to discuss the current state of the art, what its missing, and what we as a community can do to fix it.  
+
+Btrfs
+Speaker: Chris Mason
+Learn about the latest developments in Btrfs, the next generation file system included in the Linux 3.0 kernel.
+
+Keynote: Amazon and the Future of the Open Cloud
+Speaker: Greg DeKoenigsberg
+mazon Web Services is the dominant public cloud provider in the
+industry.  And for good reason: they make it dead simple to get up and
+running in the cloud.  Lock-in risks in the public cloud world,
+though, are enormous: what alternatives will users have if, for
+whatever reason, they decide that Amazon services are no longer for
+them?  How do we leverage the freedom of choice provided by open
+source in a cloud world that is increasingly dominated by a single
+entity?
+
+Sunday Keynote
+Speaker: Selena Deckelmann
+
+DevOps Newly Wed Game
+Speaker: John Willis
+How well do yours Dev and Ops teams know each other? Join us for the DevOps Newly Wed and find out!
+
+UpSCALE
+The UpSCALE talks are held in the style of the Ignite presentations made popular by various O'Reilly sponsored events. Participants are given five minutes to speak on a subject accompanied by 20 automatically-advanced slides, making this a fast paced, fun event for participants and audience....
+
+Build A Cloud Day
+Build a Cloud Day  will be dedicated to teaching users how to build and manage a cloud computing environment using free and open source software. The program is designed to expose attendees to the concepts and best practices around deploying cloud computing infrastructure. Sessions by: Aaron Peterson (Opscode), David Nalley (CloudStack), Eric Shamow (Puppet Labs), John Mark Walker (Red Hat), Lars Kurth (Xen), Mark Hinkle (CloudStack), Matt Ray (Opscode), Simon Jakesch (Zenoss)
+
+LPI Exam Cram - LPI-102
+Speaker: Ross Brunson
+A half day crash course in everything needed for the LPIC-2 exam being offered on Sunday January 22 at SCALE 10x.
+
+LPI Exam Cram - LPI-101
+Speaker: Ross Brunson
+A half day crash course on everything you need to know for the LPI-101 exam being offered at SCALE.
+
+juju Charm School
+Speaker: Jorge Castro, Clint Byrum
+juju Charm School is an event where a juju expert is available to answer questions about writing your own juju charms. The intended audience are people who deploy software and want to contribute charms to the wider devops community to make deploying in the public and private cloud easy. Though not required, we recommend that you have juju installed and configured if you want to get deep into the event.
+
+Puppet Master Training
+Speaker: Carl Caum
+This training is ideal for those who want a Puppet jumpstart. Newer members at an organization already using Puppet, or experienced sysadmins wanting to bring Puppet into their team will get everything they need to deploy solutions. This course will be a compressed version of Puppet Labs 3 day course.  Note: This class is part of the SCALE University Program and includes an additional fee.
+
+OLPC for Middle School After-School Programs
+Speaker: Abe Kazemzadeh
+This talk presents experiences from an after-school program's activities with the OLPC project's XO computers at the Foundation for Arts, Mentoring, Leadership, and Innovation (FAMLI L.A. ).  We'll cover how kids and adults learned to use the XOs, the kids' usage of XO software, introducing the kids to hardware, projects using the XO, and the usage of XOs in comparison with other computers. 
+
+Time Management for System Administrators
+Speaker: Aleksey Tsalolikhin
+Based on Tom Limoncelli's life-saving book, this course will cover Tom's Cycle System. These time management tips and practices can greatly increase the efficiency of any single sysadmin, and when applied in a group their effects can be a quantum shift in productivity. They also give the sysadmin practitioner greater peace of mind and more power and control.
+
+Technical Resume Writing
+Speaker: N. Nadine Miller
+Technical Resume Writing covers the high points of overhauling your resume to receive better responses from the HR "gatekeepers" as well as potential IT managers and colleagues. 
+
+Deep Packet Inspection Using Wireshark
+Speaker: Mike Pennacchi
+Sometimes using tools like PING and Traceroute aren’t enough to isolate the cause of network problems. This class will take a hands-on approach to learning how to use the Wireshark protocol analyzer to analyze network traffic. Numerous examples will be used throughout the day to walk the attendees though the process of filtering out those packets that are working well and drilling to those that are at the root of the problem. Attendees will be provided with a CD containing open source network troubleshooting tools, as well as the trace files used in the class. Laptops are required
+
+NASes for the Masses
+Speaker: Lee Damon
+We will start with an examination of the pros and cons of different base operating systems as well as off-the-shelf NAS servers (both hardware and software). We will look at the more popular RAID levels and the impacts of software vs. hardware RAID implementations, data reliability, and rebuild time. We'll spend some time exploring ZFS. Attention will be paid to backups and some of the more common protocols used for accessing data from a NAS server.
+
+Using SmartOS as a Hypervisor
+Speaker: Robert Mustacchi
+SmartOS is an open source distribution of illumos, currently in production for Joyent's public cloud, where it provides a hypervisor that is secure, flexible and observable. It leverages technologies such as ZFS snapshots and clones for rapid provisioning, KVM and Zones for hardware and OS virtualization, and DTrace to safely understand what's going on inside of guests and the hypervisor. This talk will describe these technologies and their use, including engineering challenges encountered, and discuss opportunities for observing guests such as Linux and Windows.
+
+Performance Analysis: New Tools and Concepts from The Cloud
+Speaker: Brendan Gregg
+Cloud Computing introduces new challenges for performance analysis, for both customers and operators of the cloud. Apart from monitoring a scaling environment, issues within a system can be complicated when tenants are competing for the same resources, and are invisible to each other. Other factors include rapidly changing production code and wildly unpredictable traffic surges. For performance analysis in the Joyent public cloud, we use a variety of tools including Dynamic Tracing, which allows us to create custom tools and metrics and to explore new concepts.
+
+
+Installing Eucalyptus: Past, Present, and Future
+Speaker: David Kavanagh
+From the start, Eucalyptus has been installed using a set of instructions that walked the user through various options, from distro to hypervisor to network mode. While there is still value in that for the ultimate flexibility, there are other ways to get Eucalyptus installed. FastStart is one such technology. It uses a set of simplifying assumptions to create a POC installer. For those who want to not only provision Eucalyptus, but handle ongoing configuration management, Puppet and Silvereye can help to take things to the next level.
+
+State of Real-time I/O Processing in Embedded Linux Systems.
+Speaker: Tom King
+Real-time I/O is important in embedded systems as many of the systems are used for process control. There are two approaches to handling real-time: the Kernel Approach: using RTAI, Xenomi, or PREEMPT_RT and the Hardware Approach: Embedded Micro, FPGA/CPLD (programmable logic). Discussion of pros and cons of both approaches, as well as, current best practices.
+
+oVirt - Infrastructure and Management Platform for the Data Center
+Speaker: Karsten Wade
+This presentation is for anyone who cares about Linux-based KVM virtualization. It is to give a high-level look at the new oVirt project. oVirt was restarted as an open sourcing of the RHEV management platform. The new project is releasing code from a community of interested people and vendors you recognize.
+
+Introducing the Open Cloud Initiative
+Speaker: John Mark Walker
+This session will be an introduction to the Open Cloud Initiative, its makeup, and our planned activities. Attendees will learn why we have been formed and what our goals are. The Open Cloud Initiative is patterned after the OSI in structure.
+
+Don't be an *aaS: Why Community and Open Source Matter in The Cloud
+Speaker: Robyn Bergeron
+"Open" and "Cloud" may be the two of the most overused buzz words in technology today -- and certainly also two words with a vast number of interpretations of meaning. In this session, Robyn (as a Service!) will explore the intersections of these two paradigms, discuss the various layers of Freedom in the cloud atmosphere, and explain *how* and *why* Community Matters Matter in The Cloud.
+
+Replacing Your Proprietary Scale-out NAS with GlusterFS
+Speaker: Jacob Shucart
+GlusterFS is an open source, software-only, highly available, scalable, distributed storage system for modern data centers. GlusterFS is one way for public, private and hybrid cloud environments to scale their data storage capacity to hundreds of petabytes, and across multiple geographic locations. Learn how Pandora users GlusterFS to scale out their file serving operation around the globe.
+
+Reinventing Linux loopback device for clouds
+Speaker: Kir Kolyshkin, Maxim Patlasov
+This talk will début a new loopback device which gives all the advantages of virtual machine images by storing the container in a file while preserving the benefits of sharing significant portions with the host OS. We will compare and contrast the technology with the traditional loopback device and LVM, and describe a few features of a new loopback useful in container snapshotting and live migration. This talk will be technical in nature but should be accessible to people interested in cloud, virtualisation and container technologies.
+
+
+Pandaboard: Embedded Linux Extravaganza
+Speaker: Bryan Smith
+TI's Pandaboard is a Dual-core Arm Cortex A9 processor with 1GB of DDR2 RAM, making it ideal for a myraid of use scenarios. Pandaboard leverages hardware accelerated 1080p HD video playback, 802.11n Wifi, Bluetooth, and USB OTG all on an OMAP 4 platform. We'll have fun exploring this amazing open hardware platform up close and personal.
+
+nginx: Proxy Your Web Servers for Better Performance
+Speaker: der hans
+Want to build some redundancy for your web server? Use nginx as a reverse-proxy for multiple web servers. nginx will cache, provide simple load balancing, and monitor health for your backend web servers. nginx can also rewrite URLs and handle SSL, offloading those tasks from your web server.
+
+It's All Good: Martha Stewart, Python and Decorators
+Speaker: Matt Harrison
+Talk is intended to arm the attendee with enough knowledge to write their own decorator. It will cover the following:
+Functions, Closures, Decorators, Parameterized Decorators, Class Decorators Example Decorators.
+
+On Beyond Zenwalk
+Speaker: Larry Cafiero
+From Arch to Zenwalk, there are roughly 320 active Linux and Unix (BSD) distributions, according to Distrowatch. Many of them are standard-issue, production-model distros made for the average user, and some are specialized, higher performance distros with racing stripes and mag wheels. This is a look at the latter.
+
+State of the OpenStack
+Speaker: Jesse Andrews
+Because OpenStack abstracts servers, networks and storage to a single restful API, integrating it with your system(s) can be an ordeal. Lessons learned in the field with real deployments at Sony Computer Entertainment America and x.commerce. To help getting it to work for you, we will explore the architecture of major components and how to setup a complete development environment using devstack, a documented shell script that goes from Ubuntu to a running cloud in 5 minutes.
+
+FUSE with In-Kernel Meta-Data Caching
+Speaker: Gordon Ross
+An alternative to the traditional FUSE design is presented, where the kernel file-system module can do meta-data caching and some aggregation of requests, allowing the rendez-vous with the user-level helper process to be less frequent and more efficient. Experimental results from a prototype of this design are compared with the more traditional implementation.
+
+
+Cloud Computing for Small Business
+Speaker: Thomas Stocking
+Thomas Stocking will talk about the uses of Linux and open source in cloud computing, and how small businesses can take advantage of the cloud. With a short review of what the cloud means to small business, we will discuss a couple of general use cases for public and private clouds. We will also cover SaaS, and how small businesses can use it to get online and sell products, software, and services. In Q&A, participants will be asked what use they have made of cloud computing, and how it has worked (or failed) to enable their small business ventures.
+
+
+Playing in the Same Sandbox: MySQL and Oracle
+Speaker: Lynn Ferrante
+Many MySQL users also use the Oracle database and other associated Oracle software. Oracle is integrating MySQL with many of its other software products. The Oracle product certifications and integrations will allow you to use a common set of tools for Oracle and MySQL databases as a data source or as a metadata repository using the same software. Some products have already been integrated, and others are in the works.The products I will cover include Oracle Goldengate, Secure Backup, Audit Vault, OVM, and Firewall as well as some middleware products.
+
+Aeolus - Clouds Flying in Assembly
+Speaker: David Lutterkort
+Aeolus, an umbrella project for several related open source projects, ties all the cloud resources to which an organization has access together; it allows combining all of them, be they in public or private clouds, into one pool of resources, which can be subdivided into multiple virtual clouds with differing access rights for different users. Aeolus provides tools for managing virtual instances and images across public and private clouds and virtualization management solutions, from image creation to the launch of complex deployments. All fronted by a friendly self-service web application.
+
+
+Giving Linux a boot
+Speaker: Tom Rini
+There are many aspects of the Linux boot process developers should consider. This presentation covers all facets of the boot process from power up to running a user application beginning with ROM boot loader progressing through secondary program loader, u-boot, kernel and finishing with user-level initialization. Learn more about the Linux boot process first hand with a live demonstration on one of the popular BeagleBoard.org open source platforms.
+
+
+The Pop Culture Guide To Open Source
+Speaker: Ruth Suehle
+Explaining open source to someone who barely knows what software is can be hard. Code? Community? It's free? But there's a good chance your software un-savvy friend has heard of Harry Potter. Or World of Goo. Maybe he's a Tron fan. And that's the secret to explaining open source--by using the known as a bridge to the unknown.
+
+Intro to Python
+Speaker: Daniel Greenfeld
+Python is often considered a "new" scripting language but has been around for over 20 years. This talk will go over who uses Python, how Python is similar and different to other languages, core concepts of Python, basic language constructs, live code examples, web framework overview, the Python Package Index, the Southern California Python community, and will finish up with some of the more exciting and interesting contributions and efforts of the Python community.
+
+Wikiotics: an interactive wiki for language teachers and students
+Speaker: Jim Garrison, Ian Sullivan
+Wikiotics is dedicated to making learning in every language possible for everyone. First and foremost, we have built a web application at wikiotics.org that allows people to create interactive language lessons using rich multimedia elements. These lessons exist as structured wiki pages, and they can be viewed in various interactive ways including quizzes. The site is powered by free software, and all contributed content is available under the Creative Commons Attribution-ShareAlike license. Anyone who knows or wants to know a language is welcome to join our community.
+
+File Security: Lock Down Your Data
+Speaker: Brian Reames
+This presentation will begin with an introduction to the concepts of "owner", "group", and "other" as well as "read", "write", and "execute" permissions. With real examples, we will see how complications and undesired access can arise from different permission settings. The special permissions will be introduced as means of surmounting common security issues in collaborative directories. Access Control Lists will be discussed as a means of fine-tuning access granted by standard permissions. The presentation will close with a dicsusssion of how to implement, manage, and determine ACLs.
+
+
+Fun with Linux and Devices
+Speaker: Akkana Peck
+Robots are hot! Do you ever find yourself wishing you could build a robot or a sensing device, but don't know where to start? This talk will show you how to get started with Arduinos, Linux plug computers and similar options. How do you program these devices, and get them to talk to sensors or motors? Can you use Python? How much do these gizmos cost? You don't need to know a lot about electronics or computer hardware, or about programming -- I'll be showing the steps as I go. Come learn how to have fun controlling hardware from Linux!
+
+Practice Penetration Testing on Your Home Router
+Speaker: Kyle Rankin
+While it is fun to learn how to hack, sometimes it's tough to practice your skills without breaking any laws. It turns out if you have any consumer devices on your local network, you already have everything you need to practice penetration testing. In this talk I will discuss my experience with the Dlink DIR-685 Wireless N router and how with just a few basic skills I was able to find multiple exploits, including one that gave me root, all through the web interface. As I describe the attacks I'll demonstrate the exploits with a live demo.
+
+
+Advanced web content management with revision control
+Speaker: Don Marti
+The new generation of web content management systems uses a revision control system such as git, Mercurial, or Perforce, instead of a relational database, for storage. We'll cover systems such as ikiwiki, jekyll, and Perforce Chronicle, and see examples of advanced workflow enabled by revision control--while regular users see a simple wiki-like or WYSIWYG interface. We'll also learn to extend a revision-control-backed WCM system with powerful "PageSpec" expressions or ORM-like Records.
+
+
+Care and Feeding of a MySQL database for Linux Administrators
+Speaker: David Stokes
+MySQL is the most popular database on the web. But there are relatively few qualified MySQL DBAs . This session provides a guide for Linux Admins who are looking to acquire DBA skills or have inherited servers but do not know how to care for them. Do you know your EXT2 /3 file system may be slowing you down? Do you have the right data indexed? And why you should invest in memory rather than processors.
+
+The MySQL Storage Engines Landscape
+Speaker: Colin Charles
+A unique selling point of MySQL is that is supports multiple storage engines, which basically means users get to use the same top-level SQL interface while storing their data in many different sorts of methods. There is a storage engine API that was well nurtured, and a myriad of companies continuing on with creating opensource & commercial storage engines, with the API being extended in forks like MariaDB. Which engine is right for your workload? Do you choose a mix or just stick with something default like MyISAM or InnoDB? This and more will be answered in the talk.
+
+The MySQL Diaspora
+Speaker: Colin Charles
+MySQL is the world's most popular open source database. It's been popular for years, and was relatively safe in the hands of MySQL AB. MySQL AB got involved in a series of acquisitions and the ecosystem developed with a myriad of trees and forks. Find out what to use, when to use it, and which is the right solution for you.
+
+
+Create Stunning Videos with OpenShot!
+Speaker: Jonathan Thomas
+Join us in exploring OpenShot Video Editor, and learn how to create your own stunning videos. In this presentation, we will create a short video which tells the story of Steve, a resident of Minecraft, who wakes up to find monsters invading his land. Steve looks for safety in an abandoned cave, and unknowingly stumbles into the real world. As I create this video, you will learn the techniques and tricks to create your own stunning videos with OpenShot. At the end of the presentation, we will watch the final video and upload it to YouTube.
+
+Modern Memcached
+Speaker: Alan Kasindorf
+Memcached was an original high speed networked key/value store developed by LiveJournal. Over time many new ideas have spring up around the idea of key/value storage: persistence, autoscaling, schemas. The memcached protocol is even used as a side protocol for new versions of MySQL. Recently development has picked up pace, as the project continues to push the envelope for high performance and simplicity. Come hear about the new changes from the project developer also known as Dormando.
+
+
+The Qt Project and the relevance of open development
+Speaker: Quim Gil
+Qt is a cross-platform application and UI framework used by thousands of companies for multiple industries and types of devices, from traditional desktops to mobile and embedded devices. Created by Trolltech in 1992 and acquired by Nokia in 2008, nowadays the Qt Project is run by a non-profit organization open to all contributors. In the past years the use of Qt has increased at all levels, and now the open development setup is allowing the Qt Project to advance wider and faster. http://qt-project.org is the home of this collaborative effort.
+
+
+Developing for illumos
+Speaker: Garrett DAmore
+We will present an overview of the tools and APIs that affect device driver developers, including a sample very simple device driver. We will cover the core DDI, resources to find more information, building the software, the tools to load and test drivers, and some high level debugging strategies.
+
+
+Sugar! SoaS Brings This Sweet Educational Software To Almost Any Computer
+Speaker: Caryl Bigenho
+Sugar! It just gets sweeter and sweeter! This award-winning open source educational software, originally created for One Laptop Per Child's XO computers, is now available in a new version that runs well on PCs and now, with improved support, on most Intel based Macs. SoaS Pineapple, codename for Sugar on a Stick v.6, includes many of the favorite activities found on the XO laptop. In this session you will receive a DVD copy of SoaS Pineapple, learn how to prepare it for use on your own computer, and explore what you can do with some of the great activities included in the package.
+
+Software Patents: What You Can Do
+Speaker: Deb Nicholson
+This talk goes over the current situation with software patent suits and covers what you can do for the community and your own project and in particular how the Open Invention Network can help.
+
+Linux Based Personal Robotics
+Speaker: Tully Foote
+ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. In building ROS we use Linux both as a platform and a model for development. As a platform Linux provides a great development environment and tools in addition to well packaged libraries which are tested and integrated. As a model for development, the open source community built up around Linux is one of the most productive ways to develop.
+
+SELinux for Mere Mortals (or, "Don't Turn It Off")
+Speaker: Thomas Cameron
+This session will cover the history, basic concepts and introduce Security Enhanced Linux (SELinux). Participants will be able to identify, diagnose, and solve common problems with SELinux.
+
+
+Undergraduate Education Strategies
+Speaker: Sebastian Dziallas
+The FOSS world and academia operate on radically different schedules -- integrating the two together requires a lot of work. But it can be incredibly rewarding, to both parties. This session will articulate how all of us can work together to make these collaborations better -- and more often. Finally, I'll report the latest results from the POSSE workshop that happened this summer, and that's been submitted in an intensive-version on this conference as well. Join us for the revolution!
+
+
+POSSE intensive -- a cultural immersion workshop
+Speaker: Sebastian Dziallas
+Working in the open source world can be a daunting proposition. Not everybody has the time to learn about the means, tools and most importantly the culture this world employs. If you’re someone with skills that would benefit an open source project – developer, sysadmin, designer, writer, marketer, lawyer, tester, and nearly anything else under the sun – but have a hard time figuring out how to interact with the communities you want to work with, this workshop is for you. Originally designed for professors getting their students started as contributors, we're opening it to the public.
+
+Getting Started with Git
+Speaker: Ron Toland
+Git is arguably the best version control system out there. But habits formed from years of using svn or CVS can trip you up when you switch to using git. I'll cover basic git usage, point out the pitfalls of treating git like svn, and share some best practices to help you take advantage of git's features.
+
+A Closer Look at MySQL Cluster: An Architectural Overview
+Speaker: Max Mether
+MySQL Cluster is tightly linked to the MySQL server, yet it is a separate product. Due to its distributed nature, MySQL Cluster has a far more complicated architecture than a standard MySQL database. This presentation will describe the internal architecture of the MySQL Cluster product and how the process and data flow takes place between the nodes of the cluster.
+
+Start Making Awesome Command Line Apps...In Ruby?
+Speaker: David Copeland
+Tired of maintaining your one-off script that has now become someone's job to execute? Wish you could create polished applications on the command line similar to git? In my talk, I'll talk about what makes a command line application "awesome", and why you should care. I'll talk about what makes Ruby particularly suited to this task and how you can get things done quicker with this amazing high-level language. We'll compare and contrast several Ruby libraries that can make even your lowliest automation script a polished, maintainable, and predictable application.
+
+Selling Free Software
+Speaker: Tom Callaway
+From 2001 to 2006, I was a Sales Engineer (now known as Solutions Architects) at Red Hat, awarded Sales Engineer of the Year in 2005 and 2006. With no roadmap, no sales training, only a hacker mindset and a passion for free software, I learned many things about how to (and how not to) sell Free Software within organizations, large and small. I'll share some tips about how I was successful and hopefully give you some ideas.
+
+
+Xen in the Cloud
+Speaker: Lars Kurth
+This talk will give an overview of the various Xen projects and the Xen community, and cover the key developments that occured in Xen.org projects in the last year, and where the Xen is going. The talk will cover PVOPS (Xen support in the Linux 3.x kernel) and what that means for you, new features and changes to the hypervisor project and exciting developments in the XCP and the Xen ARM projects. We will zoom into interesting projects such as project Kronos, the future of XCP, Xen and ARM virtualisation extensions, how Xen cooperates with cloud orchestration projects and many more.
+
+
+Remote Execution Management with Salt
+Speaker: Christer Edwards
+Salt is a distributed remote execution system used to execute commands and query data. It was developed in order to bring the best solutions found in the world of remote execution together and make them better, faster and more malleable.
+
+Salt accomplishes this via its ability to handle larger loads of information, from not just dozens but hundreds or even thousands of individual servers, and handle them quickly and through a simple and manageable interface.
+
+12 Years of FLOSS License Compliance: A Historical Perspective
+Speaker: Bradley Kuhn
+Since working on his first GPL enforcement effort in 1999 Kuhn has tracked and followed the state of compliance with the GPL and LGPL. Kuhn will survey the types of FLOSS compliance problems that were and are encountered, and how they have changed historically.
+
+Much progress has been made since late 1990s, but widespread adoption of BusyBox/Linux and Android/Linux systems has led to more GPL violations than ever before (counting by sheer volume) particularly in embedded products.
+
+Kuhn will discuss how our community can meet these challenges and improve worldwide compliance.
+
+Introduction to PC-BSD 9
+Speaker: Kris Moore
+PC-BSD is the most popular BSD-based desktop operating system.  In this talk we will take a look at what makes PC-BSD unique:
+
+How it is built from the FreeBSD base operating system
+The differences between BSD and Linux
+The PBI package management format
+Upgrading philosophy
+Virtualization support with the Warden and "Port Jail"
+
+MySQL Update
+Speaker: David Stokes
+MySQL is the database in the LAMP stack and there are many new features to be found in MySQL 5.5 and the MySQL 5.6 previews.From NoSQL access of data to connection pooling, the developers have been very busy to improve the product. This session will cover these new features, how to best take advantage of them, and what you will see in the future. If you run the MySQL database, you need to attend this session to learn how to make your systems faster and your life easier.
+
+Remote Execution Management with Salt
+Speaker: Christer Edwards
+Salt is a distributed remote execution system used to execute commands and query data. It was developed in order to bring the best solutions found in the world of remote execution together and make them better, faster and more malleable.
+
+Salt accomplishes this via its ability to handle larger loads of information, from not just dozens but hundreds or even thousands of individual servers, and handle them quickly and through a simple and manageable interface.
+
+12 Years of FLOSS License Compliance: A Historical Perspective
+Speaker: Bradley Kuhn
+Since working on his first GPL enforcement effort in 1999 Kuhn has tracked and followed the state of compliance with the GPL and LGPL. Kuhn will survey the types of FLOSS compliance problems that were and are encountered, and how they have changed historically.
+
+Much progress has been made since late 1990s, but widespread adoption of BusyBox/Linux and Android/Linux systems has led to more GPL violations than ever before (counting by sheer volume) particularly in embedded products.
+
+Kuhn will discuss how our community can meet these challenges and improve worldwide compliance.
+
+Introduction to PC-BSD 9
+Speaker: Kris Moore
+PC-BSD is the most popular BSD-based desktop operating system.  In this talk we will take a look at what makes PC-BSD unique:
+
+How it is built from the FreeBSD base operating system
+The differences between BSD and Linux
+The PBI package management format
+Upgrading philosophy
+Virtualization support with the Warden and "Port Jail"
+
+MySQL Update
+Speaker: David Stokes
+MySQL is the database in the LAMP stack and there are many new features to be found in MySQL 5.5 and the MySQL 5.6 previews.From NoSQL access of data to connection pooling, the developers have been very busy to improve the product. This session will cover these new features, how to best take advantage of them, and what you will see in the future. If you run the MySQL database, you need to attend this session to learn how to make your systems faster and your life easier.
+
+
+IPv6 Essentials for Linux Administrators
+Speaker: Owen DeLong
+Back by popular demand, this standing-room only talk is updated from last year and introduces participants to the concepts of IPv6 and shows how they can easily add IPv6 capabilities to their Linux Systems, even if their ISP doesn't yet support IPv6.
+
+This talk covers all the basics including interface configuration, DNS, Web services, Email, etc. A Q&A period at the end will allow participants to get answers to their IPv6 questions.
+
+
+Fundraising 101 (or "Free as in Freedom So Who Pays for the Beer?")
+Speaker: Cat Allman
+Free and Open Source software may be largely created and maintained by passionate volunteers, but projects still need funds to pay for things like bandwidth, hardware and the all important tee-shirts. Asking for money is hard – and taking it can be a lot more complicated than you might think.
+
+This talk covers the basics of sourcing financial support for your project. Participants in this session should walk out with the information they need to develop at least the outline of a fund-raising plan for your project.
+
+IPv6 Essentials for Linux Administrators
+Speaker: Owen DeLong
+Back by popular demand, this standing-room only talk is updated from last year and introduces participants to the concepts of IPv6 and shows how they can easily add IPv6 capabilities to their Linux Systems, even if their ISP doesn't yet support IPv6.
+
+This talk covers all the basics including interface configuration, DNS, Web services, Email, etc. A Q&A period at the end will allow participants to get answers to their IPv6 questions.
+
+
+Fundraising 101 (or "Free as in Freedom So Who Pays for the Beer?")
+Speaker: Cat Allman
+Free and Open Source software may be largely created and maintained by passionate volunteers, but projects still need funds to pay for things like bandwidth, hardware and the all important tee-shirts. Asking for money is hard – and taking it can be a lot more complicated than you might think.
+
+This talk covers the basics of sourcing financial support for your project. Participants in this session should walk out with the information they need to develop at least the outline of a fund-raising plan for your project.
+

@@ -9,8 +9,8 @@ Facebook (facebook_afraid.pdf)
 GoDaddy (godaddy.jpg)
 Opscode (opscode_SCALE.pdf)
 10Gen (see 10gen folder)
-OpenStack
-BeyondTrust 
+OpenStack (OpenStack-Scale-Ad-2012.pdf)
+BeyondTrust (BeyondTrust.pdf) 
 
 1/2 Page
 ========

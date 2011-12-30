@@ -20,6 +20,10 @@ entity?
 Sunday Keynote
 Speaker: Selena Deckelmann
 
+3 Myths and 3 Challenges to Bring System Administration out of the Dark Ages
+Speaker: Mark Burgess
+Mark Burgess, a provocative thinker about system administration since the 1990s, recently wrote a controversial blog about three ideas that he believes are holding the field of system administration in the past. In this talk he outlines those and chooses three themes everyone should have in mind to accelerate the future of the field: business integration, knowledge management, and emergent design to handle complexity. These are a part of the DevOps movement, but have people really thought through the issues?
+
 DevOps Newly Wed Game
 Speaker: John Willis
 How well do yours Dev and Ops teams know each other? Join us for the DevOps Newly Wed and find out!

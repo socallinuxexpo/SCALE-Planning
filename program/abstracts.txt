@@ -17,6 +17,10 @@ them?  How do we leverage the freedom of choice provided by open
 source in a cloud world that is increasingly dominated by a single
 entity?
 
+MariaDB: The New M in LAMP
+Speaker: Colin Charles
+MariaDB is a branch of the popular MySQL database. The project began in 2009 circled around a storage engine, but quickly evolved to being another database, with two major releases in 2010. This session aims to introduce the project, and will help and DBA or developer get to grips with MariaDB. MariaDB is community developed, feature enhanced and backward compatible with MySQL.
+
 Sunday Keynote
 Speaker: Selena Deckelmann
 

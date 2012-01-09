@@ -389,9 +389,13 @@ Speaker: Thomas Cameron
 This session will cover the history, basic concepts and introduce Security Enhanced Linux (SELinux). Participants will be able to identify, diagnose, and solve common problems with SELinux.
 
 
-Start Making Awesome Command Line Apps...In Ruby?
-Speaker: David Copeland
-Tired of maintaining your one-off script that has now become someone's job to execute? Wish you could create polished applications on the command line similar to git? In my talk, I'll talk about what makes a command line application "awesome", and why you should care. I'll talk about what makes Ruby particularly suited to this task and how you can get things done quicker with this amazing high-level language. We'll compare and contrast several Ruby libraries that can make even your lowliest automation script a polished, maintainable, and predictable application.
+Automated EC2 AMI generation with Puppet
+Speaker: Carl Caum
+Cloud computing has brought many benefits to enterprises and startups alike. However, one challenge is to determine when a AMI needs to be updated. If you wait too long between new builds, puppet could potentially take upwards of 15-20 minutes to configure new instances to be ready to do their work. Assuming puppet is what's authoritative in your environment, the release of new production puppet code should begin a process of what images need to be updated.
+
+RetroGnome
+Speaker: Earl Malmrose
+With the recent switch to two new desktop environments, Unity and GNOME Shell, a lot of people have been unhappy with the new way of interacting with their desktop. Several attempts have been made to remedy this situation, but those all seem like temporary workarounds.  We will go over the steps to take a default Ubuntu installation, and modify it by installing GNOME Shell and several Extensions that bring back that classic GNOME 2 desktop usability, without losing any of the modern GNOME Shell features.
 
 Ceph distributed storage system
 Speaker: Sage Weil

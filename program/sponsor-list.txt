@@ -1,0 +1,51 @@
+Platinum
+--------
+HP
+
+Gold
+-----
+IBM
+Servers Direct
+
+Silver
+------
+BeyondTrust
+GoDaddy
+Facebook
+Opscode
+Pogo Linux
+SeaMicro
+Eucalyptus
+MongoDB and 10gen
+CityGrid Media
+
+Game Night Sponsors
+iX Systems
+Google
+CityGrid
+Media Temple
+
+Track Sponsors
+Canonicla
+Puppet Labs
+Q
+Oracle
+
+Green Room and Speaker Lounge
+Canonical
+
+Mug Sponsor
+DreamHost
+
+Media Sponsors
+Toolbox.com
+Linux Pro Magazine
+OpenSource.com
+Usenix
+Linux Professional Institute
+
+DevOps Day
+Ceph, Cars.com, Media Temple
+
+Build A Cloud Day
+Cloud Stack

@@ -2,6 +2,10 @@ Platinum
 --------
 HP
 
+Registration Kiosks
+-------------------
+HP
+
 Gold
 -----
 IBM
@@ -43,6 +47,8 @@ Linux Pro Magazine
 OpenSource.com
 Usenix
 Linux Professional Institute
+UbuntuUser
+Conference Guru
 
 DevOps Day
 Ceph, Cars.com, Media Temple
